@@ -23,6 +23,13 @@ Components include:
 
     - normal
     - arithmetic
-
-    ​
+  - 3 bit prime number counter
+    - case based
+  
+  
+  
+    
+  
+    
+  
 
